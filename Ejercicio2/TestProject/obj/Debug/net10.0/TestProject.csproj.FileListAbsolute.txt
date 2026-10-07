@@ -1,0 +1,14 @@
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\bin\Debug\net10.0\TestProject.exe
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\bin\Debug\net10.0\TestProject.deps.json
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\bin\Debug\net10.0\TestProject.runtimeconfig.json
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\bin\Debug\net10.0\TestProject.dll
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\bin\Debug\net10.0\TestProject.pdb
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\TestProject.dll
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\refint\TestProject.dll
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\TestProject.pdb
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+C:\Users\LAB A.LABA16\Desktop\c#\Ejercicio2\TestProject\obj\Debug\net10.0\ref\TestProject.dll
